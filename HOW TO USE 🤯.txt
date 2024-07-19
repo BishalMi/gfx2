@@ -1,0 +1,14 @@
+SEND ALL COMMAND ONE BY ONE 👍
+👇👇👇👇👇👇
+
+pip install telebot
+pip install pymongo aiohttp telebot
+chmod +x *
+pyhton3 soul.py
+
+make another terminal 👍
+👇👇👇👇
+
+chmod +x *
+python loop.py
+python serverr.py
